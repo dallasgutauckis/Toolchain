@@ -5,3 +5,4 @@ cp ~/.git-prompt.sh scripts/
 cp ~/.vimrc configs/
 cp ~/.bash_profile configs/
 cp ~/Library/Preferences/com.googlecode.iterm2.plist configs/
+cp ~/Library/KeyBindings/DefaultKeyBinding.dict configs/

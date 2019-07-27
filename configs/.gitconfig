@@ -8,6 +8,7 @@
 	ci = commit
 	co = checkout
 	br = branch
+	fa = fetch --all
 [user]
 	name = Dallas Gutauckis
 	email = dallas@gutauckis.com

@@ -9,6 +9,7 @@
 	co = checkout
 	br = branch
 	fa = fetch --all
+	rbc = rebase --continue
 [user]
 	name = Dallas Gutauckis
 	email = dallas@gutauckis.com
